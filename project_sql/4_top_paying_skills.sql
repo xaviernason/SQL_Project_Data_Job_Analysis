@@ -1,5 +1,5 @@
 /*
-What are the top skills by salary?
+What are the top skills by salary in data analysis?
 We want the average salary for each skill required for a data analysis position
 */
 

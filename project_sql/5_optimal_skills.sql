@@ -1,5 +1,5 @@
 /*
-What are the top skills by demand and salary?
+What are the top skills by demand and salary for data analysts seeking remote work?
 We want skills for remote data analysis positions
 */
 
