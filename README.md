@@ -48,7 +48,7 @@ This query does not attempt to remove outliers in the data, as can be seen by th
 # What I learned
 This visualization was, just for fun, created using only desmos and canva. Note that it only includes the first five skills from the query.
 
-![very_cool_vsualization](assets\5_optimal_skills.png)
+![very_cool_vsualization](assets/5_optimal_skills.png)
 
 By far the most important skill for a data analyst who wants a stable, well-paying remote job is sql, with nearly four hundred positions. The next three skills - being excel, python, and tableau - are very clustered in demand. R tails behind, with less than half the demand of excel.
 
