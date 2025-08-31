@@ -1,5 +1,5 @@
 # Introduction
-This project is based on the excellent [video](https://www.youtube.com/watch?v=7mz73uXD9DA) by Luke Barousse. It is my first significant foray into sql and data analysis, and will be followed by a larger, self-directed project. Since this project will therefore not be that ultimate demopnstration of my skills, this analysis has intentionally been left largely informal.
+This project is based on the excellent [video](https://www.youtube.com/watch?v=7mz73uXD9DA) by Luke Barousse. It is my first significant foray into sql and data analysis, and will be followed by a larger, self-directed project. Since this project will therefore not be that ultimate demonstration of my skills, this analysis has intentionally been left largely informal.
 
 The aim of this project is to find the most important skills to learn for data analysts seeking well paid jobs.
 
@@ -43,7 +43,7 @@ ORDER BY
     avg_salary DESC
 ```
 
-This query does not attempt to remove outliers in the data, as can be seen by the many slills it identifies with high salary but only a handful of positions. Instead, it focuses primarily on skill count in order to identify what skills are desirable for one looking to find job security.
+This query does not attempt to remove outliers in the data, as can be seen by the many skills it identifies with high salary but only a handful of positions. Instead, it focuses primarily on skill count in order to identify what skills are desirable for one looking to find job security.
 
 # What I learned
 This visualization was, just for fun, created using only desmos and canva. Note that it only includes the first five skills from the query.
